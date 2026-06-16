@@ -7,8 +7,9 @@ Cloud Security • DevSecOps • AWS • Linux • Security Automation
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Cloud+Security+Engineer+in+Progress;DevSecOps+Enthusiast;AWS+Cloud+Learner;Cybersecurity+Researcher;Building+Secure+and+Scalable+Systems" />
 </p>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=180&lines=%24+aws+sts+get-caller-identity;Authenticated+Successfully...;%24+terraform+apply;Infrastructure+Provisioned...;%24+trivy+image+secure-app;No+Critical+Vulnerabilities+Found...;%24+security-audit.sh;Risk+Score%3A+LOW;%24+cloud-monitor.sh;Threat+Detection+Active..." />
+  <img src="https://media.giphy.com/media/.../giphy.gif" width="100%">
 </p>
 
 ---
