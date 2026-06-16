@@ -69,8 +69,6 @@ Cloud Security • DevSecOps • AWS • Linux • Security Automation
 
 ### 🛡️ Security Tools
 
-### 🛡️ Security Tools
-
 <p align="left">
 <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge" />
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge" />
