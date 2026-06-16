@@ -9,7 +9,7 @@ Cloud Security • DevSecOps • AWS • Linux • Security Automation
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/.../giphy.gif" width="100%">
+  <img src="./animated_hacker_banner_v2.gif" width="100%" alt="Animated Hacker Banner" />
 </p>
 
 ---
