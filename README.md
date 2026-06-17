@@ -134,8 +134,8 @@ Cloud Security • DevSecOps • AWS • Linux • Security Automation
 # 📊 GitHub Statistics
 
 <p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Shauryan10&show_icons=true&theme=tokyonight" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shauryan10&layout=compact&theme=tokyonight" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Shauryan10&show_icons=true&theme=tokyonight&count_private=true&v=2" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shauryan10&layout=compact&theme=tokyonight&v=2" />
 </p>
 
 <p align="center">
