@@ -365,7 +365,7 @@ src="https://github-profile-trophy.vercel.app/?username=Shauryan10&theme=tokyoni
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Shauryan10/Shauryan10/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Shauryan10/Shauryan10/gh-pages/github-contribution-grid-snake.svg"/>
 
 </p>
 
