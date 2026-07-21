@@ -310,7 +310,9 @@ Implemented:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shauryan10&theme=tokyonight&no-frame=true&row=2&column=4" />
+<img 
+src="https://github-profile-trophy.vercel.app/?username=Shauryan10&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4"
+/>
 
 </p>
 
