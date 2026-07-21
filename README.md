@@ -49,7 +49,7 @@ Cloud Security • DevSecOps • AWS • Kubernetes • Security Automation
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=go,python,bash,c,cpp,java" />
+<img src="https://skillicons.dev/icons?i=go,python,bash" />
 
 </p>
 
@@ -287,16 +287,83 @@ Implemented:
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Shauryan10&show_icons=true&theme=tokyonight&count_private=true&v=2" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shauryan10&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shauryan10&layout=compact&theme=tokyonight&v=2" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shauryan10&layout=compact&theme=tokyonight&langs_count=8" />
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shauryan10&theme=tokyonight" />
+
+</p>
+
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shauryan10&theme=tokyonight&no-frame=true&row=2&column=4" />
+
+</p>
+
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shauryan10&theme=tokyo-night&hide_border=true" />
+
+</p>
+
+
+---
+
+# 📌 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shauryan10&theme=tokyonight" />
 
 </p>
 
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shauryan10&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shauryan10&theme=tokyonight" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shauryan10&theme=tokyonight" />
+
+</p>
+
+
+---
+
+# ⏱️ Coding Activity
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shauryan10&theme=tokyonight&utcOffset=5.5" />
+
+</p>
+
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Shauryan10/Shauryan10/output/github-contribution-grid-snake.svg" />
 
 </p>
 
